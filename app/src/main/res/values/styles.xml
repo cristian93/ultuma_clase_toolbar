@@ -1,6 +1,6 @@
 <resources>
 
-    <!-- Base application theme. -->
+    <!-- Base application theme.  muetra el toolbar-->
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/colorPrimary</item>
@@ -18,7 +18,7 @@
         <item name="colorButtonNormal">#ff80ab</item>
         <item name="colorControlHighlight">#aa00ff</item>
         <item name="android:textColor">@android:color/white
-        </item>
+
 
 
 

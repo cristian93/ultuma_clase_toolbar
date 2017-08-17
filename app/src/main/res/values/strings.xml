@@ -3,4 +3,6 @@
     <string name="str_1">Nombre</string>
     <string name="str_2">Apellido</string>
     <string name="btn_1">Aceptar</string>
+    <string name="str_item_1">Buscar</string>
+    <string name="str_item_2">Salir</string>
 </resources>
